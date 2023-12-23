@@ -1,5 +1,5 @@
 ---
-title:  TriNetra
+title:  TriNetra - Confined Rescue Tripod 
 summary: The Confined Rescue Tripod revolutionizes emergency response in confined spaces, offering a dependable and adaptable solution for critical rescue scenarios. Engineered with a focus on durability and functionality, this tripod provides a stable and secure platform for rescue teams to access hard-to-reach areas with confidence. Its adjustable legs and locking mechanisms ensure stability on diverse terrains, allowing for rapid deployment in urgent situations without compromising safety.
 weight: 10
 tags:
